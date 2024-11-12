@@ -62,6 +62,10 @@ We welcome contributions to the Baybayin to Text Converter! If you'd like to con
 4. Test your changes.
 5. Create a pull request with a clear description of the changes you've made.
 
+## Author
+
+- [mavyfaby](https://github.com/mavyfaby) (Maverick Fabroa)
+
 ## License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
